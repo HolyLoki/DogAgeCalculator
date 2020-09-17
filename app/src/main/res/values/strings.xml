@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DogAgeCalculator</string>
+    <string name="inputText">TextView</string>
+    <string name="textview">Dog\'s Age</string>
+    <string name="textview2">In Human Age</string>
+    <string name="textview3">0</string>
+    <string name="btnConvert">Convert</string>
+    <string name="btnReset">Reset</string>
+
+    <string-array name="species">
+        <item>Pug</item>
+        <item>Dalmatian</item>
+        <item>Rottweiler</item>
+        <item>Gordon Setter</item>
+    </string-array>
+</resources>
